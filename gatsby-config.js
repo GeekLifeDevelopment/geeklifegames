@@ -1,12 +1,13 @@
 module.exports = {
   siteMetadata: {
     title: "geek-life-games-site",
+    siteUrl: "http://geeklife.games",
   },
   plugins: [
     {
       resolve: "gatsby-source-contentful",
       options: {
-        accessToken: "",
+        accessToken: "QMTWqnNmaaExK3mcDRohOmMzlwiRhXZPyXVrr22B6sI",
         spaceId: "4ox3o4tczyx7",
       },
     },
