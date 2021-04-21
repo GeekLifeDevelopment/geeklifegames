@@ -1,7 +1,7 @@
 import React from "react";
 
 const IndexPage = () => {
-  return <div>Here is the home page</div>;
+  return <div>Geek Life Games</div>;
 };
 
 export default IndexPage;
